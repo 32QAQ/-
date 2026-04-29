@@ -1,6 +1,6 @@
 # 活动发票重命名工具
 
-`Rename-ActivityInvoices.ps1` 用于批量整理活动报销材料。脚本会读取同一文件夹中的商品截图凭证图片和发票 PDF，按金额自动配对，并重命名为统一格式。演示视频:https://www.bilibili.com/video/BV1SB9yBCEhN/?spm_id_from=333.1387.homepage.video_card.click&vd_source=b89188ace0b60eba765b58fc2b387c1d
+`Rename-ActivityInvoices.ps1` 用于批量整理活动报销材料。脚本会读取同一文件夹中的商品截图凭证图片和发票 PDF，按金额自动配对，并重命名为统一格式。演示视频:https://www.bilibili.com/video/BV1G69UBZEhM/?spm_id_from=333.1387.homepage.video_card.click&vd_source=b89188ace0b60eba765b58fc2b387c1d
 
 ## 功能
 
